@@ -1,0 +1,6 @@
+@public_box_api_HostAddress = http://localhost:5077
+
+GET {{public_box_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

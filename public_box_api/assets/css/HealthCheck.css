@@ -1,0 +1,8 @@
+﻿:root {
+    --primaryColor: #2bb1e0;
+    --secondaryColor: #EEF9FF;
+    --bgMenuActive: #EEF9FF;
+    --bgButton: #2bb1e0;
+    --logoImageUrl: url('https://www.box-solution.com/img/BOX_SOLUTION.png');
+    --bgAside: var(--primaryColor);
+}
